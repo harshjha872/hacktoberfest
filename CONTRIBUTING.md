@@ -1,8 +1,8 @@
 # hacktoberfest
 To add something on my repository , kindly tell something about you
 
-Name-
+Name-Devansh Jha
 
-Location-
+Location-Jhansi,U.P.,India
 
-Github account link-
+Github account link-https://github.com/jhadevansh0809
